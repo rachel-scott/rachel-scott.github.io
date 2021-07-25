@@ -1,2 +1,3 @@
 name: Rachel Scott
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
