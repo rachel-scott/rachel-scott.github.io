@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Creating My Personal Website"
+date: 2021-08-17
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+My latest project has been working on this website. 
+
+It's powered by [Jekyll](http://jekyllrb.com) and uses Markdown to author these blog posts. 
