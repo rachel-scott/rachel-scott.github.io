@@ -7,19 +7,16 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: black;
-    color: white;
+    color: grey;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    background-color: black;
-    color: white;
+    color: grey;
 }
 a {
     text-decoration: none;
-    background-color: black;
-    color: grey;
+    color: blue;
 }
 a:hover {
     text-decoration: underline;
@@ -27,14 +24,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    background-color: black;
-    color: white;
+    color: grey;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    background-color: black;
-    color: white;
+    color: grey;
 }
 footer {
     border-top: 1px solid #d5d5d5;
