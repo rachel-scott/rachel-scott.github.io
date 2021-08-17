@@ -18,7 +18,6 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: white;
-    font-style: italic;
     font-style: bold;
 }
 a:hover {
