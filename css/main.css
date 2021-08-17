@@ -1,5 +1,5 @@
 body {
-    background-color: #DBF9FC;
+    background-color: black;
     margin: 60px auto;
     width: 70%;
 }
@@ -8,16 +8,18 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: grey;
+    color: white;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color: grey;
+    color: white;
 }
 a {
     text-decoration: none;
-    color: blue;
+    color: white;
+    font-style: italic;
+    font-style: bold;
 }
 a:hover {
     text-decoration: underline;
@@ -25,12 +27,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: grey;
+    color: white;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: grey;
+    color: white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
