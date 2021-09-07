@@ -12,3 +12,5 @@ This was my first time completing a website in HTML/CSS and only my second time 
 We were honoured to be selected as a winner of Bell’s Caring for Remote Communities Award, an award presented to the top three projects aimed at improving care in remote commmunities. 
 
 Our project idea was inspired by the pandemic. We wanted to create a way for patients to get quality healthcare without having to visit the doctor in person. This helps keep the spread of Covid-19 at bay as well as improve accessibility for those who live far from treatment centers or have transportation issues.
+
+You can check out our project and learn more <a href="https://devpost.com/software/healthshare-1asx02">here</a>!
