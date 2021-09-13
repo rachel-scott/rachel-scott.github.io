@@ -12,4 +12,4 @@ I completed multipled projects using OOP.
 
 One was a Coffee Machine Simulator. I used abstraction, encapsulation, inheritance, and implementation of methods and classes to produce this Java program where users simulate ordering, preparing, and drinking coffee. 
 
-We also built a robot program inspired by <a href="https://cs.uwaterloo.ca/~bwbecker/papers/oopsla99/">link Becker's Learning to Program with Robots. </a> 
+We also built a robot program inspired by <a href="https://cs.uwaterloo.ca/~bwbecker/papers/oopsla99/">Becker's Learning to Program with Robots. </a> 
