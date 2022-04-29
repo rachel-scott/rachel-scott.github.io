@@ -6,7 +6,7 @@ date: 2021-01-10
 
 HealthShare was a project created for SheHacks V, a 36 hour hackathon. I collaborated with two teammates I had never met previously to create a cohesive website, database, and smartwatch application aimed at improving the quality and accessibility of healthcare.
 
-I built front-end of the website using HTML/CSS and designed a prototype of the UI/UX with Figma and Canva.
+I built the front-end of the website using HTML/CSS and designed a prototype of the UI/UX with Figma and Canva.
 This was my first time completing a website in HTML/CSS and only my second time using Figma. 
 
 I also wrote our Devpost Submission and contributed to our pitch video.
