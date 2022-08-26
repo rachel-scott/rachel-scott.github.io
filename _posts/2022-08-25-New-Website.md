@@ -1,0 +1,1 @@
+This website is in desperate need of a redesign and it's currently in the works! Check out a preview [here](https://www.figma.com/proto/3wmUxqqCZ7ckUAwz7KKVDb/Personal-Website?node-id=3%3A7&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A7).
